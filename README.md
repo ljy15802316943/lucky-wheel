@@ -1,3 +1,5 @@
+源码转载自： https://www.github.com/landluck/lucky_wheel
+
 # lucky_wheel
 
 >  使用 vue 开发的一个简单转盘，支持奖项动态配置
